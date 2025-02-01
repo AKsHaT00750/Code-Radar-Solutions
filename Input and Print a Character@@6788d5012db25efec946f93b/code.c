@@ -3,7 +3,7 @@
 char welcome() {
     char ch;
     scanf(" %c", &ch);
-    return ch
+    return ch;
 }
 
 int main() {
