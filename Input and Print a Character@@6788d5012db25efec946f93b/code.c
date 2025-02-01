@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 char welcome() {
-    char num;
-    scanf("%c",&num);
+    char cg;
+    scanf("%c",&ch);
 }
 
 int main() {
