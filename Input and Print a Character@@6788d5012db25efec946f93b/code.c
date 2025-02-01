@@ -2,7 +2,7 @@
 
 char welcome() {
     char num;
-    scanf("%c",&num)
+    scanf("%c",&num);
 }
 
 int main() {
