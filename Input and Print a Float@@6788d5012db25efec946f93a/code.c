@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 char* welcome() {
-    scanf("%s",a)
+    float num;
+    scanf("%f",&num)
+    return nnum;
 }
 
 int main() {
-    printf("%s", welcome());
+    printf("%f", welcome());
     return 0;
 }
