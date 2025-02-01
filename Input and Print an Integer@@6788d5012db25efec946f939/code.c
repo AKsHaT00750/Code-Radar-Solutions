@@ -3,7 +3,7 @@
 char* welcome() {
     
     int n;
-    scanf("%d",&n)
+    scanf("%d",&n);
     return n;
 }
 
