@@ -7,6 +7,6 @@ float welcome() {
 }
 
 int main() {
-    printf("%.2f", welcome());
+    printf(" You entered: %.2f", welcome());
     return 0;
 }
