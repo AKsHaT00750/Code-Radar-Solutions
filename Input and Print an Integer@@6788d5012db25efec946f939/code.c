@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char* welcome() {
+int welcome() {
     
     int n;
     scanf("%d",&n);
