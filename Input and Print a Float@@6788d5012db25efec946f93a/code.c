@@ -2,7 +2,7 @@
 
 char* welcome() {
     float num;
-    scanf("%f",&num)
+    scanf("%f",&num);
     return num;
 }
 
