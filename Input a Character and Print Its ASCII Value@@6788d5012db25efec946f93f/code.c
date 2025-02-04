@@ -3,10 +3,10 @@
 char* welcome() {
     char ch;
     scanf("%c",&ch);
-    return (int)ch;
+    return ch;
 }
 
 int main() {
-    printf("ASCII Value: %d", welcome());
+    printf("ASCII Value: %d", (int)welcome());
     return 0;
 }
