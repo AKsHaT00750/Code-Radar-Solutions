@@ -1,3 +1,4 @@
+   #include <stdio.h>
     int b;
     scanf("%s %d",&a,&b);
     scanf("%s",&c);
