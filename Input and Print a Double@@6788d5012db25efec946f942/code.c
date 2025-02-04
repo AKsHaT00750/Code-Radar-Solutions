@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void welcome() {
+double welcome() {
     double n;
     scanf("%lf",&n);
     return n;
