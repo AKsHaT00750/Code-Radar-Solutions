@@ -7,6 +7,6 @@ double welcome() {
 }
 
 int main() {
-    printf("You entered: %lf", welcome());
+    printf("You entered: %.4lf", welcome());
     return 0;
 }
