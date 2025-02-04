@@ -7,6 +7,6 @@ float welcome() {
 }
 
 int main() {
-    printf("Produt: %.2f", welcome());
+    printf("Product: %.2f", welcome());
     return 0;
 }
