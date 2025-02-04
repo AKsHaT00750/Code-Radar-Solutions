@@ -1,17 +1,17 @@
 #include <stdio.h>
 
-bool welcome() {
+void welcome() {
     int a,b;
     scanf("%d %d",&a,&b);
     if (a>b) {
-        return True;
+        return printf("True");
     }
     else {
-        return False;
+        return printf("False");
     }
 }
 
 int main() {
-    printf("%s", welcome());
+  welcome();
     return 0;
 }
