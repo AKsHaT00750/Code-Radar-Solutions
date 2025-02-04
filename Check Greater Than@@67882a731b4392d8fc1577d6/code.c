@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void welcome() {
+int  main() {
     int a,b;
     scanf("%d %d",&a,&b);
     if (a>b) {
@@ -9,9 +9,7 @@ void welcome() {
     else {
         return printf("False");
     }
+    return 0;
+    
 }
 
-int main() {
-  welcome();
-    return 0;
-}
