@@ -7,6 +7,6 @@ int welcome() {
 }
 
 int main() {
-    printf("Sum %d", welcome());
+    printf("Sum: %d", welcome());
     return 0;
 }
