@@ -9,6 +9,6 @@ int welcome() {
 int main() {
     int num = welcome();
     printf("Hexadecimal: %x\n", num);
-    printf("Octal: %o\n", num)
+    printf("Octal: %o\n", num);
     return 0;
 }
