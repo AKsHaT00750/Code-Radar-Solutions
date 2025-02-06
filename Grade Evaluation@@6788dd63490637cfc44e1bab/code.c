@@ -7,6 +7,6 @@ int main() {
 
    switch(c){
     case "A":
-    printf("Excellent")
+    printf("Excellent");
    }
 }
