@@ -6,7 +6,7 @@ int main() {
    scanf("%c",&c);
 
    switch(c){
-    case "A":
+    case 'A':
     printf("Excellent");
    }
 }
