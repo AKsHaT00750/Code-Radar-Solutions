@@ -11,10 +11,11 @@ int main() {
                 b+=1;
             }
 
-            if (b==1){
+          
+   }
+     if (b==1){
                 print("Prime");
             }
-            else("Not Prime");
-   }
+            else{("Not Prime")};
     return 0;
 }
